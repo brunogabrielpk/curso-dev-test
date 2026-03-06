@@ -1,0 +1,24 @@
+{
+    "name": "curso-dev-test",
+    "version": "1.0.0",
+    "description": "Implementação de alguma coisa para o https://curso.dev",
+    "homepage": "https://github.com/brunogabrielpk/curso-dev-test#readme",
+    "bugs": {
+        "url": "https://github.com/brunogabrielpk/curso-dev-test/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/brunogabrielpk/curso-dev-test.git"
+    },
+    "license": "MIT",
+    "author": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev"
+    },
+    "dependencies": {
+        "next": "^16.1.6",
+        "react": "19.2",
+        "react-dom": "19.2"
+    }
+}
